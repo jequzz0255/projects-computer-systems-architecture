@@ -1,0 +1,10 @@
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\bin\Debug\Projekt5_z_osk_ostat.exe.config
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\bin\Debug\Projekt5_z_osk_ostat.exe
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\bin\Debug\Projekt5_z_osk_ostat.pdb
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\obj\Debug\Projekt5_z_osk_ostat.csproj.AssemblyReference.cache
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\obj\Debug\Projekt5_z_osk_ostat.Properties.Resources.resources
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\obj\Debug\Projekt5_z_osk_ostat.csproj.GenerateResource.cache
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\obj\Debug\Projekt5_z_osk_ostat.csproj.CoreCompileInputs.cache
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\obj\Debug\Projekt5_z_osk_ostat.exe
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\obj\Debug\Projekt5_z_osk_ostat.pdb
+D:\Projekt1_osk\Projekt5_z_osk_ostat\Projekt5_z_osk_ostat\obj\Debug\Projekt5_z_osk_ostat.Form1.resources
