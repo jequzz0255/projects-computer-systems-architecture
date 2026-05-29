@@ -1,0 +1,10 @@
+D:\Projekt1_osk\Projekt6\Projekt6\obj\Debug\Projekt6.csproj.AssemblyReference.cache
+D:\Projekt1_osk\Projekt6\Projekt6\obj\Debug\Projekt6.Form1.resources
+D:\Projekt1_osk\Projekt6\Projekt6\obj\Debug\Projekt6.Properties.Resources.resources
+D:\Projekt1_osk\Projekt6\Projekt6\obj\Debug\Projekt6.csproj.GenerateResource.cache
+D:\Projekt1_osk\Projekt6\Projekt6\obj\Debug\Projekt6.csproj.CoreCompileInputs.cache
+D:\Projekt1_osk\Projekt6\Projekt6\bin\Debug\Projekt6.exe.config
+D:\Projekt1_osk\Projekt6\Projekt6\bin\Debug\Projekt6.exe
+D:\Projekt1_osk\Projekt6\Projekt6\bin\Debug\Projekt6.pdb
+D:\Projekt1_osk\Projekt6\Projekt6\obj\Debug\Projekt6.exe
+D:\Projekt1_osk\Projekt6\Projekt6\obj\Debug\Projekt6.pdb
