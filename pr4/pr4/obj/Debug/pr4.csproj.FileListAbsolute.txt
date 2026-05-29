@@ -1,0 +1,10 @@
+D:\Projekt1_osk\pr4\pr4\bin\Debug\pr4.exe.config
+D:\Projekt1_osk\pr4\pr4\bin\Debug\pr4.exe
+D:\Projekt1_osk\pr4\pr4\bin\Debug\pr4.pdb
+D:\Projekt1_osk\pr4\pr4\obj\Debug\pr4.csproj.AssemblyReference.cache
+D:\Projekt1_osk\pr4\pr4\obj\Debug\pr4.Properties.Resources.resources
+D:\Projekt1_osk\pr4\pr4\obj\Debug\pr4.csproj.GenerateResource.cache
+D:\Projekt1_osk\pr4\pr4\obj\Debug\pr4.csproj.CoreCompileInputs.cache
+D:\Projekt1_osk\pr4\pr4\obj\Debug\pr4.exe
+D:\Projekt1_osk\pr4\pr4\obj\Debug\pr4.pdb
+D:\Projekt1_osk\pr4\pr4\obj\Debug\pr4.Form1.resources
